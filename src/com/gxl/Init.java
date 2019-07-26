@@ -1,5 +1,9 @@
 package com.gxl;
 
+/**
+ * @author hunter
+ *
+ */
 public class Init {
 
 	public static void main(String[] args) {
